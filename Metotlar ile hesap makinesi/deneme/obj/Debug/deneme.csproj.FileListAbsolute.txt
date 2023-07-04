@@ -1,0 +1,16 @@
+C:\Users\ah1ol\OneDrive\Masaüstü\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\ah1ol\OneDrive\Masaüstü\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\ah1ol\OneDrive\Masaüstü\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\ah1ol\OneDrive\Masaüstü\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\ah1ol\OneDrive\Masaüstü\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ah1ol\OneDrive\Masaüstü\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\ah1ol\OneDrive\Masaüstü\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\ah1ol\OneDrive\Masaüstü\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Metotlar ile hesap makinesi\deneme\bin\Debug\deneme.exe.config
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Metotlar ile hesap makinesi\deneme\bin\Debug\deneme.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Metotlar ile hesap makinesi\deneme\bin\Debug\deneme.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Metotlar ile hesap makinesi\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Metotlar ile hesap makinesi\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Metotlar ile hesap makinesi\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Metotlar ile hesap makinesi\deneme\obj\Debug\deneme.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Metotlar ile hesap makinesi\deneme\obj\Debug\deneme.pdb
